@@ -30,4 +30,4 @@ jobs:
           git config --global user.email "action@github.com"
           git add main_Solar_df.csv
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update solar data" && git push)
-          # test
+# test
