@@ -3,7 +3,7 @@ name: Auto Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *' 
+    - cron: '*/20 * * * *' 
   workflow_dispatch:     # อนุญาตให้กดสั่งรันเองผ่านปุ่มในเว็บได้
 
 jobs:
