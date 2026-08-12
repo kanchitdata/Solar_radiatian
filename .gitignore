@@ -1,1 +1,3 @@
 .venv/
+__pychache__/
+main_Solar_df.csv
